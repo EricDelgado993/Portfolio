@@ -2,7 +2,7 @@
 #include "Rational.h"
 using namespace std;
 
-
+// Edit the file!!
 int main()
 {
 	Rational ratNum(1, 5);
