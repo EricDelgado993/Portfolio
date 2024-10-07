@@ -1,4 +1,4 @@
-<h1>Programming Portfolio - Eric Delgado</h1>
+<h1>Eric Delgado - Programming Portfolio</h1>
 
 <h2>Software Projects:</h2>
 
