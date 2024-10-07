@@ -3,7 +3,7 @@
 <h2>Software Projects:</h2>
 
 - <b>C++ Programs</b>
-  - [Practice Program 1]
+  - [Binary Search Tree](https://github.com/EricDelgado993/Binary-Search-Tree/tree/main)
   - [Practice Program 2]
 
 - <b>Java Programs</b>
