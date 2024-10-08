@@ -12,11 +12,11 @@
 
 - <b>Python Programs</b>
   - [Dynamic Character Movement](https://github.com/EricDelgado993/Dynamic-Movement)
-  - [Practice Program 2]
+  - [Wordle Solver]((https://github.com/EricDelgado993/Wordle-Solver))
 
 - <b>Lua Solar2D Programs</b>
-  - [Practice Program 1]
-  - [Practice Program 2]
+  - [Transition Effect Application](https://github.com/EricDelgado993/Transition-Effect-Application)
+  - [Simple Game Application](https://github.com/EricDelgado993/Simple-Game-Application)
 <!--
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
