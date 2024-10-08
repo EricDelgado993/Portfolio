@@ -12,7 +12,7 @@
 
 - <b>Python Programs</b>
   - [Dynamic Character Movement](https://github.com/EricDelgado993/Dynamic-Movement)
-  - [Wordle Solver]((https://github.com/EricDelgado993/Wordle-Solver))
+  - [Wordle Solver](https://github.com/EricDelgado993/Wordle-Solver)
 
 - <b>Lua Solar2D Programs</b>
   - [Transition Effect Application](https://github.com/EricDelgado993/Transition-Effect-Application)
