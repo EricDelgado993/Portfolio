@@ -4,11 +4,8 @@
 
 - <b>C++ Programs</b>
   - [Binary Search Tree](https://github.com/EricDelgado993/Binary-Search-Tree/tree/main)
-  - [Practice Program 2]
 
 - <b>Java Programs</b>
-  - [Practice Program 1]
-  - [Practice Program 2]
 
 - <b>Python Programs</b>
   - [Dynamic Character Movement](https://github.com/EricDelgado993/Dynamic-Movement)
