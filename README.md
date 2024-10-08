@@ -11,7 +11,7 @@
   - [Practice Program 2]
 
 - <b>Python Programs</b>
-  - [Practice Program 1]
+  - [Dynamic Character Movement](https://github.com/EricDelgado993/Dynamic-Movement)
   - [Practice Program 2]
 
 - <b>Lua Solar2D Programs</b>
