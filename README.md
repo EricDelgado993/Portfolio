@@ -5,8 +5,6 @@
 - <b>C++ Programs</b>
   - [Binary Search Tree](https://github.com/EricDelgado993/Binary-Search-Tree/tree/main)
 
-- <b>Java Programs</b>
-
 - <b>Python Programs</b>
   - [Dynamic Character Movement](https://github.com/EricDelgado993/Dynamic-Movement)
   - [Wordle Solver](https://github.com/EricDelgado993/Wordle-Solver)
