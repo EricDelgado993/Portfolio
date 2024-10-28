@@ -6,8 +6,9 @@
   - [Binary Search Tree](https://github.com/EricDelgado993/Binary-Search-Tree/tree/main)
 
 - <b>Python Programs</b>
-  - [Dynamic Character Movement](https://github.com/EricDelgado993/Dynamic-Movement)
   - [Wordle Solver](https://github.com/EricDelgado993/Wordle-Solver)
+  - [Dynamic Character Movement](https://github.com/EricDelgado993/Dynamic-Movement)
+  - [Dynamic Path Following](https://github.com/EricDelgado993/Dynamic-Path-Following)
 
 - <b>Lua Solar2D Programs</b>
   - [Transition Effect Application](https://github.com/EricDelgado993/Transition-Effect-Application)
