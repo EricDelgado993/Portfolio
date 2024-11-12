@@ -9,6 +9,7 @@
   - [Wordle Solver](https://github.com/EricDelgado993/Wordle-Solver)
   - [Dynamic Character Movement](https://github.com/EricDelgado993/Dynamic-Movement)
   - [Dynamic Path Following](https://github.com/EricDelgado993/Dynamic-Path-Following)
+  - [Sever-Client Program](https://github.com/EricDelgado993/Server-Client)
 
 - <b>Lua Solar2D Programs</b>
   - [Transition Effect Application](https://github.com/EricDelgado993/Transition-Effect-Application)
