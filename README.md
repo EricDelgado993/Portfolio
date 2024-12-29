@@ -4,6 +4,7 @@
 
 - <b>C++ Programs</b>
   - [Binary Search Tree](https://github.com/EricDelgado993/Binary-Search-Tree/tree/main)
+  - [Variables and Data Types Program](https://github.com/EricDelgado993/Variables-and-Data-Types/blob/main)
 
 - <b>Python Programs</b>
   - [Wordle Solver](https://github.com/EricDelgado993/Wordle-Solver)
