@@ -28,18 +28,6 @@
   Establishes a basic client-server architecture for multi-client communication and data exchange.
 
 ---
-
-### <img src="https://www.citypng.com/public/uploads/preview/hd-java-logo-transparent-background-701751694771845zainlxmlfo.png" /> Java Programs
-- **[Banking System](https://github.com/EricDelgado993/Banking-System)**  
-  A simple banking system that allows users to create accounts, deposit, withdraw, and check balances.
-
-- **[Tic-Tac-Toe Game](https://github.com/EricDelgado993/Tic-Tac-Toe-Game)**  
-  A console-based Tic-Tac-Toe game implemented in Java with a simple user interface.
-
-- **[Student Management System](https://github.com/EricDelgado993/Student-Management-System)**  
-  A system to manage student records, including adding, editing, and deleting student information.
-
----
   
 ### <img src="https://solar2d.com/images/logo.png" width="20" height="20" /> Lua (Solar2D) Programs
 - **[Transition Effect Application](https://github.com/EricDelgado993/Transition-Effect-Application)**  
