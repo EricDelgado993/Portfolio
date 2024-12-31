@@ -29,6 +29,18 @@
 
 ---
 
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Java_logo_icon.png/1024px-Java_logo_icon.png" width="20" height="20" /> Java Programs
+- **[Banking System](https://github.com/EricDelgado993/Banking-System)**  
+  A simple banking system that allows users to create accounts, deposit, withdraw, and check balances.
+
+- **[Tic-Tac-Toe Game](https://github.com/EricDelgado993/Tic-Tac-Toe-Game)**  
+  A console-based Tic-Tac-Toe game implemented in Java with a simple user interface.
+
+- **[Student Management System](https://github.com/EricDelgado993/Student-Management-System)**  
+  A system to manage student records, including adding, editing, and deleting student information.
+
+---
+  
 ### <img src="https://solar2d.com/images/logo.png" width="20" height="20" /> Lua (Solar2D) Programs
 - **[Transition Effect Application](https://github.com/EricDelgado993/Transition-Effect-Application)**  
   Demonstrates smooth transition effects for UI components using Solar2D.
