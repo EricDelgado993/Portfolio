@@ -30,7 +30,7 @@
 ---
 
 ### Java Programs
--- **[RedBox Rental System](https://github.com/EricDelgado993/RedBox-Rental-System/)**
+- **[RedBox Rental System](https://github.com/EricDelgado993/RedBox-Rental-System/)**
 
 ---
   
