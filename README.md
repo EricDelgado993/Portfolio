@@ -29,7 +29,7 @@
 
 ---
 
-### Lua (Solar2D) Programs
+### <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Solar2D_Logo.svg" width="20" height="20" /> Lua (Solar2D) Programs Lua (Solar2D) Programs
 - **[Transition Effect Application](https://github.com/EricDelgado993/Transition-Effect-Application)**  
   Demonstrates smooth transition effects for UI components using Solar2D.
 
