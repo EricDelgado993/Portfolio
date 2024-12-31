@@ -46,4 +46,4 @@
 
 ### ARM Assembly Programs
 - **[Factorial Calculator](https://github.com/EricDelgado993/Factorial-Calculator)**  
-  Demonstrates smooth transition effects for UI components using Solar2D.
+  Calculates and display the factorial of integers up to a user-specified number.
