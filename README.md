@@ -46,4 +46,4 @@
 
 ### ARM Assembly Programs
 - **[Factorial Calculator](https://github.com/EricDelgado993/Factorial-Calculator)**  
-  Calculates and display the factorial of integers up to a user-specified number.
+  Calculates and displays the factorial of integers up to a user-specified number.
