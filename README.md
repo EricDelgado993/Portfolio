@@ -29,7 +29,7 @@
 
 ---
 
-### <img src="https://friconix.com/png/fi-snsuxx-java.png" /> Java Programs
+### <img src="https://friconix.com/png/fi-snsuxx-java.png" width="20" height="20" /> Java Programs
 - **[RedBox Rental System](https://github.com/EricDelgado993/RedBox-Rental-System)**  
   Simulates a RedBox rental machine that offers video games and movies for rental using the principles of polymorphism and inheritance.
 
