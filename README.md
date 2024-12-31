@@ -28,6 +28,11 @@
   Establishes a basic client-server architecture for multi-client communication and data exchange.
 
 ---
+
+### Java Programs
+-- **[RedBox Rental System](https://github.com/EricDelgado993/RedBox-Rental-System/)**
+
+---
   
 ### <img src="https://solar2d.com/images/logo.png" width="20" height="20" /> Lua (Solar2D) Programs
 - **[Transition Effect Application](https://github.com/EricDelgado993/Transition-Effect-Application)**  
