@@ -6,10 +6,10 @@
 - **[Binary Search Tree](https://github.com/EricDelgado993/Binary-Search-Tree/tree/main)**  
   Implementation of a Binary Search Tree data structure, showcasing efficient insertion, deletion, and search operations.
 
-- **[Car Garage Random Generator](https://github.com/EricDelgado993/Gar-Garage-Random-Generator/blob/main/README.md)**  
+- **[Car Garage Random Generator](https://github.com/EricDelgado993/Gar-Garage-Random-Generator/blob/main)**  
   A program that dynamically generates a virtual garage of cars with diverse vehicle configurations in a simulated environment.
 
-- **[Adventure Game Character List Manager](https://github.com/EricDelgado993/Adventure-Game-Character-List-Manager/blob/main/README.md)**  
+- **[Adventure Game Character List Manager](https://github.com/EricDelgado993/Adventure-Game-Character-List-Manager/blob/main)**  
   Manages and organizes characters for adventure games, allowing easy addition, removal, and viewing of characters in the list.
 
 ---
