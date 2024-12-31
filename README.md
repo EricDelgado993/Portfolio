@@ -41,3 +41,9 @@
 
 - **[Simple Game Application](https://github.com/EricDelgado993/Simple-Game-Application)**  
   A basic game developed with Solar2D, showcasing interactive gameplay mechanics.
+
+---
+
+### ARM Assembly Programs
+- **[Factorial Calculator](https://github.com/EricDelgado993/Factorial-Calculator)**  
+  Demonstrates smooth transition effects for UI components using Solar2D.
