@@ -29,7 +29,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/hwkr/BitIcon/master/svg/java-alt-sq.svg" width="30" height="30" /> Java Programs
+### <img src="https://www.svgrepo.com/show/32690/java.svg" width="30" height="30" /> Java Programs
 - **[RedBox Rental System](https://github.com/EricDelgado993/RedBox-Rental-System)**  
   Simulates a RedBox rental machine that offers video games and movies for rental using the principles of polymorphism and inheritance.
 
