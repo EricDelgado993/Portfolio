@@ -14,7 +14,7 @@
 
 ---
 
-### Python Programs
+### <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20" /> Python Programs
 - **[Wordle Solver](https://github.com/EricDelgado993/Wordle-Solver)**  
   A program designed to solve the popular word puzzle game Wordle using advanced algorithms.
 
