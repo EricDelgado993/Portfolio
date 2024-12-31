@@ -31,7 +31,7 @@
 
 ### Java Programs
 - **[RedBox Rental System](https://github.com/EricDelgado993/RedBox-Rental-System/)**
-   Simulates a RedBox rental machine that offers video games and movies for rental using the principles of polymorphism and inheritance.
+  Simulates a RedBox rental machine that offers video games and movies for rental using the principles of polymorphism and inheritance.
 
 ---
   
