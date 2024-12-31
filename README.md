@@ -47,3 +47,5 @@
 ### <img src="https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png" width="20" height="20" /> ARM Assembly Programs
 - **[Factorial Calculator](https://github.com/EricDelgado993/Factorial-Calculator)**  
   Calculates and displays the factorial of integers up to a user-specified number.
+- **[Array Operations](https://github.com/EricDelgado993/Array-Operations)**  
+  The program takes user input, performs calculations on arrays, and displays the results.
