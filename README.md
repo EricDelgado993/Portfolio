@@ -29,7 +29,7 @@
 
 ---
 
-### <img src="https://www.citypng.com/public/uploads/preview/hd-java-coffee-cup-logo-transparent-png-701751694771832kcfdn3tm91.png" width="20" height="20" /> Java Programs
+### <img src="https://p7.hiclipart.com/preview/315/519/631/5bbc10f9a5759.jpg" /> Java Programs
 - **[Banking System](https://github.com/EricDelgado993/Banking-System)**  
   A simple banking system that allows users to create accounts, deposit, withdraw, and check balances.
 
