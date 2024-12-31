@@ -2,7 +2,7 @@
 
 ## Software Projects
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" width="20" height="20" /> C++ Programs
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" width="18" height="20" /> C++ Programs
 - **[Binary Search Tree](https://github.com/EricDelgado993/Binary-Search-Tree/tree/main)**  
   Implementation of a Binary Search Tree data structure, showcasing efficient insertion, deletion, and search operations.
 
