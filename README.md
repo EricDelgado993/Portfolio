@@ -4,6 +4,7 @@
 
 ### C++ Programs
 - [Binary Search Tree](https://github.com/EricDelgado993/Binary-Search-Tree/tree/main): Implementation of a Binary Search Tree data structure, showcasing efficient insertion, deletion, and search operations.
+- [Car Garage Random Generator](https://github.com/EricDelgado993/Gar-Garage-Random-Generator/blob/main/README.md):
 
 ### Python Programs
 - [Wordle Solver](https://github.com/EricDelgado993/Wordle-Solver): A program designed to solve the popular word puzzle game Wordle using advanced algorithms.
