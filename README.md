@@ -39,6 +39,9 @@
 - **[3D Sphere Puzzle Game](https://github.com/EricDelgado993/3D-Sphere-Puzzle)**  
   3D puzzle game where players control a gold sphere to navigate a grid of colorful tiles
 
+- **[Apple Picker Game](https://github.com/EricDelgado993/Apple-Picker)**  
+  Unity game where players control a basket to catch falling apples.
+  
 ---
 
 ### <img src="https://solar2d.com/images/logo.png" width="20" height="20" /> Lua (Solar2D) Programs
