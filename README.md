@@ -1,5 +1,5 @@
 # Eric Delgado - Programming Portfolio
-[ARM Assembly Programs](#goto)
+[<img src="https://solar2d.com/images/logo.png" width="20" height="20" /> Lua (Solar2D) Programs](#goto)
 ## Software Projects
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" width="18" height="20" /> C++ Programs
