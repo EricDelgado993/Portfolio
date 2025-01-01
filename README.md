@@ -35,9 +35,9 @@
 
 ---
 
-### C# (Unity) Programs
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="20" height="20" /> C# (Unity) Programs
 - **[3D Sphere Puzzle Game](https://github.com/EricDelgado993/3D-Sphere-Puzzle)**  
-  Demonstrates smooth transition effects for UI components using Solar2D.
+  3D puzzle game where players control a gold sphere to navigate a grid of colorful tiles
 
 ---
 
