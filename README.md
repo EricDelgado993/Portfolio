@@ -35,6 +35,12 @@
 
 ---
 
+### C# (Unity) Programs
+- **[3D Sphere Puzzle Game](https://github.com/EricDelgado993/3D-Sphere-Puzzle)**  
+  Demonstrates smooth transition effects for UI components using Solar2D.
+
+---
+
 ### <img src="https://solar2d.com/images/logo.png" width="20" height="20" /> Lua (Solar2D) Programs
 - **[Transition Effect Application](https://github.com/EricDelgado993/Transition-Effect-Application)**  
   Demonstrates smooth transition effects for UI components using Solar2D.
