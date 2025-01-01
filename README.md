@@ -1,5 +1,5 @@
 # Eric Delgado - Programming Portfolio
-Goto: [C++ Programs](#-c-programs) | 
+#### Goto: [C++ Programs](#-c-programs) | 
 [Python Programs](#-python-programs) | 
 [Java Programs](#-java-programs) | 
 [C# (Unity) Programs](#-c-unity-programs) | 
