@@ -1,5 +1,5 @@
 # Eric Delgado - Programming Portfolio
-[Go to Real Cool Heading section](#Lua (Solar 2D) Programs)
+[Go to Real Cool Heading section](# Lua (Solar 2D) Programs)
 ## Software Projects
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" width="18" height="20" /> C++ Programs
