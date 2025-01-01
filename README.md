@@ -1,5 +1,4 @@
 # Eric Delgado - Programming Portfolio
-[Software Projects](#software-projects) | 
 [C++ Programs](#-c-programs) | 
 [Python Programs](#-python-programs) | 
 [Java Programs](#-java-programs) | 
