@@ -12,7 +12,7 @@
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1024px-ISO_C%2B%2B_Logo.svg.png" width="18" height="20" /> C++ Programs
 - **[Binary Search Tree](https://github.com/EricDelgado993/Binary-Search-Tree/tree/main)**  
   Implementation of a Binary Search Tree data structure, showcasing efficient insertion, deletion, and search operations.
-- **[Graph Implementation](https://github.com/EricDelgado993/Graph)**
+- **[Graph Implementation](https://github.com/EricDelgado993/Graph)**  
   This program implements a graph data structure providing features like breadth-first search (BFS) traversal and dynamic queue management in C++.
 - **[Car Garage Random Generator](https://github.com/EricDelgado993/Gar-Garage-Random-Generator/blob/main)**  
   A program that dynamically generates a virtual garage of cars with diverse vehicle configurations in a simulated environment.
