@@ -43,9 +43,9 @@
 
 ---
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="18" height="20" /> C# (Unity) Programs
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="18" height="20" /> C# Programs
 - **[3D Sphere Puzzle Game](https://github.com/EricDelgado993/3D-Sphere-Puzzle)**  
-  3D puzzle game where players control a gold sphere to navigate a grid of colorful tiles.
+  Unity 3D puzzle game where players control a gold sphere to navigate a grid of colorful tiles.
 
 - **[Apple Picker Game](https://github.com/EricDelgado993/Apple-Picker)**  
   Unity game where players control a basket to catch falling apples.
