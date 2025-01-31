@@ -49,6 +49,9 @@
 
 - **[Apple Picker Game](https://github.com/EricDelgado993/Apple-Picker)**  
   Unity game where players control a basket to catch falling apples.
+
+- **[File Handler and Monitor](https://github.com/EricDelgado993/File-Monitor)**  
+  Tracks and monitors .txt files within a given directory.
   
 ---
 
